@@ -26,7 +26,7 @@ int main(){
         }
         i++;
     }
-
+// this is another way
     // for( i = 0; i < n; i++){
     //     total = 0;
     //     for( j = 0; j < month; j++){
